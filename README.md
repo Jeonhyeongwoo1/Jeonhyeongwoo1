@@ -21,9 +21,15 @@
 - 이력서 : https://wiggly-falcon-0d4.notion.site/0a0b01533e0040688ee42fb88ad2f345
 - 포트폴리오 : https://wiggly-falcon-0d4.notion.site/SlimeMaster-1338cf8e8103808cb337f9c1c19fab8d?pvs=74
 
-https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
-https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
-https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
+
+<br/>  
+
+<div sttyle='float:left'>
+<img style="margin: 10px" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" height="25" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#" height="25" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".net" height="25" />  
+</div>
+
 
 <br/>  
 
